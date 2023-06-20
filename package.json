@@ -51,7 +51,7 @@
     "lodash.clonedeep": "^4.3.0",
     "lodash.flatten": "^4.4.0",
     "lru-cache": "^4.0.0",
-    "semver": "^5.5.1",
+    "semver": "^7.5.2",
     "then-fs": "^2.0.0"
   },
   "engines": {
